@@ -1,0 +1,1 @@
+<div style="background-image: url('{{asset('public/frontend/coming-soon.png')}}');background-position: fixed;background-size: contain;background-position: center center;position: fixed;max-width: 600px;max-height: 600px;width: 100%;top: 50%;background-repeat: no-repeat;left: 50%;transform: translate(-50%, -50%);height: 100%;"></div>
